@@ -47,8 +47,7 @@ DON'T TOUCH
 }
 ```
 ---
-*The script was made by several peoples like Sewiii, Nekzy, etc*
-**This is just a leak**
+*The script was made by several peoples like Sewiii, Nekzy, etc. This is just a leak*
 ---
 
 Thanks to Nekros for this nice readme template that saved me time. <3
