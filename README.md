@@ -12,6 +12,8 @@
 
 
 ## <a id="features"></a>🛠 » Features
+**This is a leak, some commands may not work.**
+
 1. `config-logs` → Choose logs channel
 2. `compte` → Show account informations (if connected)
 3. `connect-pc` → Show you how to get your token
