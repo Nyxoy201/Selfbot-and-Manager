@@ -1,7 +1,11 @@
 {
   "manager": "Manager_Token",
   "owner": "Owner_ID",
-  "role": [],
-  "user": {},
-  "logprivé": [""]
+  "role": [
+  ],
+  "user": {
+},
+  "logprivé": [
+    ""
+  ]
 }
