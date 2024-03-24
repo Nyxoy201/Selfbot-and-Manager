@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord-backup": "^3.2.1",
+    "discord-stream-client": "^1.4.8",
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13": "^2.15.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
