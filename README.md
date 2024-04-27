@@ -26,7 +26,7 @@
 
 ## <a id="setup"></a> 📁 » Setting up
 
-1. Installe [node.js](https://nodejs.org/en/download)
+1. Install [node.js](https://nodejs.org/en/download)
 2. Install modules → `npm i`
 3. Run it with `node index.js`
 
